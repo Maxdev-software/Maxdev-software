@@ -9,7 +9,7 @@
 * ⚡ **[cpp-async-http-server](https://github.com)** — Высокопроизводительный асинхронный HTTP-сервер на C++.
 * 💼 **[crm-monorepo-lead](https://github.com)** — Минималистичная CRM-система для управления лидами.
 * 🎒 **[BookingAgregator-proj](https://github.com)** & **[booking-aggregator-dotnet](https://github.com)** — Экосистема агрегатора бронирования с десктопным приложением на C#/.NET.
-* 🎮 **[dota2-skin-tracker](https://github.com)** — Веб-приложение на JavaScript для мониторинга скинов Dota 2 на FunPay.
+* 🎮 **[dota2-skin-tracker](https://github.com)** — Веб-приложение для мониторинга скинов Dota 2 на FunPay.
 * 🤖 **[bugpilot](https://github.com)** — Веб-приложение для команд разработчиков с AI-аналитикой на Python.
 
 ---
