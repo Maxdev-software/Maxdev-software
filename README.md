@@ -1,14 +1,12 @@
 # Привет! Я Максим (Maxdev-software) 👋
 
-![Role](https://shields.io)
-
 Я занимаюсь Backend и Fullstack разработкой. Создаю асинхронные сервисы, CRM-системы, агрегаторы и веб-приложения с интеграцией AI.
 
 ---
 
 ### 🧰 Мой технологический стек:
 
-![Python](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![C#](https://shields.io) ![C++](https://shields.io) ![Docker](https://shields.io)
+<img src="https://jsdelivr.net" alt="Python" width="40" height="40" style="margin-right: 10px;" /> <img src="https://jsdelivr.net" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" /> <img src="https://jsdelivr.net" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" /> <img src="https://jsdelivr.net" alt="C#" width="40" height="40" style="margin-right: 10px;" /> <img src="https://jsdelivr.net" alt="C++" width="40" height="40" style="margin-right: 10px;" /> <img src="https://jsdelivr.net" alt="Docker" width="40" height="40" style="margin-right: 10px;" />
 
 ---
 
@@ -24,8 +22,8 @@
 
 ### 📊 Статистика профиля:
 
-![GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+<img src="https://vercel.app" alt="GitHub Stats" height="160px" />
+<img src="https://vercel.app" alt="Top Langs" height="160px" />
 
 ---
 
