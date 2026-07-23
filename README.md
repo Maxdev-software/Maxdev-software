@@ -6,11 +6,11 @@
 
 ### 🚀 Основные проекты в репозиториях:
   
-  **[hidden-space-explorer](https://github.com)** — Высокопроизводительный асинхронный HTTP-сервер на C++.
-  **[cpp-async-http-server](https://github.com)** — Высокопроизводительный асинхронный HTTP-сервер на C++.
-  **[crm-monorepo-lead](https://github.com)** — Минималистичная CRM-система для управления лидами.
-  **[BookingAgregator-proj](https://github.com)** & **[booking-aggregator-dotnet](https://github.com)** — Экосистема агрегатора бронирования с десктопным приложением на C#/.NET.
-  **[bugpilot](https://github.com)** — Веб-приложение для команд разработчиков с AI-аналитикой на Python.
+ * **[hidden-space-explorer](https://github.com)** — Высокопроизводительный асинхронный HTTP-сервер на C++.
+ * **[cpp-async-http-server](https://github.com)** — Высокопроизводительный асинхронный HTTP-сервер на C++.
+ * **[crm-monorepo-lead](https://github.com)** — Минималистичная CRM-система для управления лидами.
+ * **[BookingAgregator-proj](https://github.com)** & **[booking-aggregator-dotnet](https://github.com)** — Экосистема агрегатора бронирования с десктопным приложением на C#/.NET.
+ * **[bugpilot](https://github.com)** — Веб-приложение для команд разработчиков с AI-аналитикой на Python.
 
 ---
 
