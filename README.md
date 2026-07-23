@@ -24,4 +24,5 @@
 
 ---
 ### 📫 Как со мной связаться:
-* **GitHub:** [Maxdev-software](https://github.com)
+* **GitHub:** [memspy](https://github.com/memspy)
+* **Telegram** [@cyberuzbek2]
